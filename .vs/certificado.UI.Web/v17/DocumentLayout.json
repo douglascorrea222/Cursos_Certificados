@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\",
+  "WorkspaceRootPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C54BE39-A157-4124-9BD8-D30F2C8E791D}|certificado.UI.Web\\certificado.UI.Web.csproj|c:\\users\\douglas.correa\\source\\repos\\sistema web core\\certificado.ui.web\\certificado.ui.web\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C54BE39-A157-4124-9BD8-D30F2C8E791D}|certificado.UI.Web\\certificado.UI.Web.csproj|c:\\users\\douglas.correa\\documents\\douglas\\ghr\\sistema web core\\certificado.ui.web\\certificado.ui.web\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C54BE39-A157-4124-9BD8-D30F2C8E791D}|certificado.UI.Web\\certificado.UI.Web.csproj|solutionrelative:certificado.ui.web\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\Data\\SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "certificado.UI.Web\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\Data\\SeedData.cs",
               "RelativeToolTip": "certificado.UI.Web\\Data\\SeedData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T17:30:28.997Z",
               "EditorCaption": ""

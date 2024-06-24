@@ -26,7 +26,7 @@ namespace certificado.UI.Web.Data
 
             string[] roles = { "Admin", "User" };
 
-            // Verificar se as roles já existem
+            // Verificar se as roles já existem_Teste
             foreach (var role in roles)
             {
                 if (!await _roleManager.RoleExistsAsync(role))

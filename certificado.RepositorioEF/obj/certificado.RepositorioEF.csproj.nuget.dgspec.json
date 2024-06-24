@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj": {}
+    "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj": {
+    "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
         "projectName": "certificado.Dominio",
-        "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
+        "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
         "packagesPath": "C:\\Users\\douglas.correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\douglas.correa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj": {
+    "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj",
+        "projectUniqueName": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj",
         "projectName": "certificado.RepositorioEF",
-        "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj",
+        "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj",
         "packagesPath": "C:\\Users\\douglas.correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\obj\\",
+        "outputPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\douglas.correa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj": {
-                "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj"
+              "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj": {
+                "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj"
               }
             }
           }

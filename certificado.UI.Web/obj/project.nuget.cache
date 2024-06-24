@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w0uTLSry1Xg=",
+  "dgSpecHash": "vUAwqZMvH1g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\certificado.UI.Web.csproj",
+  "projectFilePath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\certificado.UI.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\douglas.correa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\douglas.correa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
