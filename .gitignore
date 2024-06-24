@@ -3,6 +3,7 @@ certificado.Aplicacao/obj/
 
 # Outras regras .gitignore que você possa ter
 **/obj/
+**/bin/
 
 .vs/certificado.UI.Web/FileContentIndex/
 .vs/ProjectEvaluation/certificado.ui.web.projects.v8.bin
