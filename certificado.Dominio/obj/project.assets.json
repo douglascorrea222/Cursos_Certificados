@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
       "projectName": "certificado.Dominio",
-      "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
+      "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj",
       "packagesPath": "C:\\Users\\douglas.correa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\douglas.correa\\AppData\\Roaming\\NuGet\\NuGet.Config",

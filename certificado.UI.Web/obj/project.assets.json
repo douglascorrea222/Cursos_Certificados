@@ -4839,11 +4839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\certificado.UI.Web.csproj",
+      "projectUniqueName": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\certificado.UI.Web.csproj",
       "projectName": "certificado.UI.Web",
-      "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\certificado.UI.Web.csproj",
+      "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\certificado.UI.Web.csproj",
       "packagesPath": "C:\\Users\\douglas.correa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\obj\\",
+      "outputPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.UI.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\douglas.correa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4861,14 +4861,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Aplicacao\\certificado.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Aplicacao\\certificado.Aplicacao.csproj"
+            "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Aplicacao\\certificado.Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Aplicacao\\certificado.Aplicacao.csproj"
             },
-            "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj": {
-              "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj"
+            "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj": {
+              "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.Dominio\\certificado.Dominio.csproj"
             },
-            "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj": {
-              "projectPath": "C:\\Users\\douglas.correa\\source\\repos\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj"
+            "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj": {
+              "projectPath": "C:\\Users\\douglas.correa\\Documents\\DOUGLAS\\GHR\\Sistema Web Core\\certificado.UI.Web\\certificado.RepositorioEF\\certificado.RepositorioEF.csproj"
             }
           }
         }
