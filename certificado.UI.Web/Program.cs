@@ -37,7 +37,7 @@ builder.Services.AddLogging(config =>
 
 // Configurar MVC e Razor Pages
 builder.Services.AddControllersWithViews();
-builder.Services.AddRazorPages();
+//builder.Services.AddRazorPages(); Desabilitado RazorPages para usar o padrão MVC
 
 // Configurar injeção de dependência para repositórios e serviços de aplicação
 // builder.Services.AddScoped<InterfaceBase<Tb_Usuario>, Tb_UsuarioRepositorioEF>();
@@ -80,6 +80,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.MapRazorPages();
+/*app.MapRazorPages();*/ //Desabilitado RazorPages para usar o padrão MVC
+
 
 app.Run();

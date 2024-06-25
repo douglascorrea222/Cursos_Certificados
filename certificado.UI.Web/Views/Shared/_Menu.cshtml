@@ -1,0 +1,39 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    var controller = ViewContext.RouteData.Values["Controller"] as string ?? "";
+    var action = ViewContext.RouteData.Values["Action"] as string ?? "";
+}
+
+<ul class="navbar-nav ml-auto">
+    <!-- ml-auto para alinhar à direita -->
+    <li class="nav-item @(controller == "Home" && action == "Index" ? "active" : "")">
+        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+    </li>
+    <li class="nav-item @(controller == "Home" && action == "Privacy" ? "active" : "")">
+        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </li>
+
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item dropdown">
+            <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                @UserManager.GetUserName(User)
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" class="dropdown-item">
+                    <button type="submit" class="btn btn-link nav-link" style="padding: 0; color: inherit; text-align: left;">Logout</button>
+                </form>
+                <!-- Adicione mais links de perfil, configurações, etc., conforme necessário -->
+            </div>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+        </li>
+    }
+</ul>

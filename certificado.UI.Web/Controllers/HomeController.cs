@@ -21,5 +21,10 @@ namespace Certificado.UI.Web.Controllers
             };
             return View(errorModel);
         }
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
     }
 }
