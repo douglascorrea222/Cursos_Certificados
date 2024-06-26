@@ -23,4 +23,14 @@
     <ProjectReference Include="..\certificado.RepositorioEF\certificado.RepositorioEF.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\TemplateBootstrap5\Default\icon-menu.html" />
+    <None Include="wwwroot\TemplateBootstrap5\Default\index.html" />
+    <None Include="wwwroot\TemplateBootstrap5\Default\LICENSE" />
+    <None Include="wwwroot\TemplateBootstrap5\Default\README.md" />
+    <None Include="wwwroot\TemplateBootstrap5\Default\sidebar-style-2.html" />
+    <None Include="wwwroot\TemplateBootstrap5\Default\starter-template.html" />
+    <None Include="wwwroot\TemplateBootstrap5\Default\widgets.html" />
+  </ItemGroup>
+
 </Project>

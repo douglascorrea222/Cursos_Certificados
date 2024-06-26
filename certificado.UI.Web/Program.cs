@@ -82,5 +82,4 @@ app.MapControllerRoute(
 
 /*app.MapRazorPages();*/ //Desabilitado RazorPages para usar o padrão MVC
 
-
 app.Run();

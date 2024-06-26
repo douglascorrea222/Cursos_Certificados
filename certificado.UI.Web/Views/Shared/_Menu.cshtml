@@ -23,17 +23,17 @@
                 @UserManager.GetUserName(User)
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" class="dropdown-item">
-                    <button type="submit" class="btn btn-link nav-link" style="padding: 0; color: inherit; text-align: left;">Logout</button>
-                </form>
+                <a class="dropdown-item" href="#">Logout</a>
                 <!-- Adicione mais links de perfil, configurações, etc., conforme necessário -->
             </div>
         </li>
     }
-    else
-    {
-        <li class="nav-item">
-            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
-        </li>
-    }
-</ul>
+
+    <!-- Dropdown fora do if para teste -->
+    <li class="nav-item dropdown">
+        <a id="navbarDropdownTest" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Teste Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownTest">
+            <a class="dropdown-item" href="#">Ação 1</a>
+            <a class="dropdown-item" href="#">A
